@@ -1,0 +1,14 @@
+{
+  "name": "drupal/itk_cookie_message",
+  "type": "drupal-module",
+  "description": "Provides a cookie message block and configuration pages",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ]
+}
